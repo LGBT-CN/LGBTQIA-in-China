@@ -254,6 +254,7 @@
 - [祈/みつき るり🧋](https://github.com/RuriMitsuki)
 - [hjx754242756](https://github.com/hjx754242756)
 - [踪天朔](https://github.com/zongtianshuo)
+- [Jes](https://github.com/JesperroO)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
