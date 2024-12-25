@@ -109,7 +109,7 @@
 - [LightQuantum](https://github.com/PhotonQuantum)
 - [OriginCode](https://github.com/OriginCode)
 - [YHJMM](https://github.com/yhjmm-303)
-- [Sunyz_Prpr](https://github.com/Sunyz-Prpr)
+- [Seven](https://github.com/realSunyz)
 - [LLLgoyour](https://github.com/LLLgoyour)
 - [RedElectricity](https://github.com/RedElectricity)
 - [Exuanbo](https://github.com/exuanbo)
